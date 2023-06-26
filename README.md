@@ -10,7 +10,29 @@
   </a>
 </div>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=AhmedHossamYunis&style=flat-square&color=blue" alt=""/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AhmedHossamYunis&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+I am an Embedded Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+
+
+- :telescope: I’m working as an Embedded Software Engineer and contributing to Automotive Industry.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmedHossam-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ahmed-hossam-4a83a914a/))
 
 
 <!--
