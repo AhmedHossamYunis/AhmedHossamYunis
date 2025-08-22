@@ -32,7 +32,8 @@ I am an Embedded Software Engineer <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmedHossam-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/ahmed-hossam-4a83a914a/](https://www.linkedin.com/in/ahmed-hossam-4a83a914a/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmedHossam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hossam-4a83a914a/)
+
 
 
 <!--
